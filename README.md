@@ -1,5 +1,5 @@
 # open-source-readiness
-Open Source Readiness contributed by Red Hat
+
 How to be a good corporate citizen when participating in an open source project
 
 Open source in general, it’s that every project is different. Every time you join an open source project, you’ll need to spend some time orienting yourself to the project and learning how it works.
